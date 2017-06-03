@@ -13,9 +13,9 @@ também pode ser usado para exemplo de desenvolvimento.
 
 A instalação é simples, basta copiar para o diretório do seu servidor WAMP ou LAMP os arquivos. Além disso você
 deverá configurar os seguintes items:
-  1. Deverá abilitar o modulo rewrite do arquivo php.ini. 
-  tutorial(windows): https://imasters.com.br/artigo/5382/web-standards/url-rewriting-criando-urls-competitivas/?trace=1519021197&source=single
-  tutorial(ubuntu): https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite-for-apache-on-ubuntu-14-04
+  1. Deverá abilitar o módulo rewrite. 
+  <br>tutorial(windows): https://imasters.com.br/artigo/5382/web-standards/url-rewriting-criando-urls-competitivas/?trace=1519021197&source=single
+  <br>tutorial(ubuntu): https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite-for-apache-on-ubuntu-14-04
   
   2. Na pasta do programa vá em _core/mysql abra o arquivo Mysql_con.class.php e adicione o usuario e senha do banco de dados.
   
@@ -31,3 +31,4 @@ deverá configurar os seguintes items:
     primary key(id));</code></p>
 
 O software está pronto para uso.
+Acesse pelo localhost e insira os primeiros registros, as outras opções CRUD estão disponíveis logo após clicar em um dado da lista de empresas.
