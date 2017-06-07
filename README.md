@@ -7,8 +7,7 @@ permitindo a automatização de funções, ou seja, a reutilização de códigos
 integração de componentes de software desenvolvido por terceiros de maneira simples.
 
 
-A tela CRUD de empresas que está incluida nesse projeto foi designado para demonstração do meu conhecimento e
-também pode ser usado para exemplo de desenvolvimento.
+A tela CRUD de empresas que está incluida nesse projeto foi designado para exemplo de desenvolvimento.
 
 
 A instalação é simples, basta copiar para o diretório do seu servidor WAMP ou LAMP os arquivos. Além disso você
